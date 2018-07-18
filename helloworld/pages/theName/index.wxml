@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view>
+<text data-name="{{theName}}"></text>
+</view>
