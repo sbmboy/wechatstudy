@@ -1,0 +1,4 @@
+<!--pages/hidden/index.wxml-->
+<view hidden="{{flag ? true : false}}">
+ Hidden
+</view>
