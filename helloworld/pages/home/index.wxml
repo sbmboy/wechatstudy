@@ -1,0 +1,10 @@
+<!--这个页面是自己加的，用于显示每次作业-->
+<view class='container'>
+  <view class='page-body'>
+    <view class='btn-area'>
+      <navigator url='../helloworld/helloworld'>
+        <button type='default' size='mini'>1. Hello World</button>
+      </navigator>
+    </view>
+  </view>
+</view>

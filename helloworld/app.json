@@ -1,5 +1,7 @@
 {
   "pages":[
-    "pages/condition/index"
+    "pages/home/index",
+    "pages/condition/index",
+    "pages/helloworld/helloworld"
   ]
 }
