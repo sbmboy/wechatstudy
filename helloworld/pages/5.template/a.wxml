@@ -1,0 +1,3 @@
+<template name="a">
+  <view>外部引入模板</view>
+</template>

@@ -1,7 +1,12 @@
 {
   "pages":[
     "pages/home/index",
-    "pages/condition/index",
-    "pages/helloworld/helloworld"
+    "pages/1.helloworld/helloworld",
+    "pages/2.hidden/index",
+    "pages/2.theName/index",
+    "pages/2.mustache/index",
+    "pages/3.items/index",
+    "pages/4.condition/index",
+    "pages/5.template/index"
   ]
 }

@@ -2,8 +2,26 @@
 <view class='container'>
   <view class='page-body'>
     <view class='btn-area'>
-      <navigator url='../helloworld/helloworld'>
-        <button type='default' size='mini'>1. Hello World</button>
+      <navigator url='../1.helloworld/helloworld'>
+        <button type='default'>1. Hello World</button>
+      </navigator>
+      <navigator url='../2.mustache/index'>
+        <button type='default'>2. 数据绑定-message</button>
+      </navigator>
+      <navigator url='../2.theName/index'>
+        <button type='default'>2. 数据绑定-theName</button>
+      </navigator>
+      <navigator url='../2.hidden/index'>
+        <button type='default'>2. 数据绑定-hidden</button>
+      </navigator>
+      <navigator url='../3.items/index'>
+        <button type='default'>3. 列表渲染</button>
+      </navigator>
+      <navigator url='../4.condition/index'>
+        <button type='default'>4. 条件渲染</button>
+      </navigator>
+      <navigator url='../5.template/index'>
+        <button type='default'>5. 模板引用</button>
       </navigator>
     </view>
   </view>

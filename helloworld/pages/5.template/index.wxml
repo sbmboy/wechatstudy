@@ -1,0 +1,32 @@
+<!--pages/5.template/index.wxml-->
+<template name="tempItem">
+  <view>
+    <view>收件人：{{name}}</view>
+    <view>联系方式：{{phone}}</view>
+    <view>地址：{{address}}</view>
+  </view>
+</template>
+
+<template is="tempItem" data="{{...item}}"></template>
+
+<!--mustache-->
+<template name="odd">
+  <view> odd</view>
+</template>
+<template name="even">
+  <view> even</view>
+</template>
+
+<block wx:for="{{[1, 2, 3, 4, 5]}}">
+  <template is="{{item % 2 == 0 ? 'even' : 'odd'}}"></template>
+</block>
+
+<!--import-->
+
+<import src="a.wxml"></import>
+<template is="a"></template>
+
+<!--import and include-->
+
+<include src="b.wxml" />
+<template is="b"></template>

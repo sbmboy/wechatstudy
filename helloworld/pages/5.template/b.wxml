@@ -1,0 +1,7 @@
+<template name="b">
+  <view>b 模板内容</view>
+</template>
+
+<view>
+  b 文档内容
+</view>
