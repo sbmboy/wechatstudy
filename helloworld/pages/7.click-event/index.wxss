@@ -1,0 +1,5 @@
+/* pages/7.click-event/index.wxss */
+.btn{
+  border: 1px solid #cccccc;
+  background-color: #f0f0f0;
+}

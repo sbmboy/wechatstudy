@@ -23,6 +23,15 @@
       <navigator url='../5.template/index'>
         <button type='default'>5. 模板引用</button>
       </navigator>
+      <navigator url='../6.wxss/index'>
+        <button type='default'>6. CSS样式表</button>
+      </navigator>
+      <navigator url='../7.click-event/index'>
+        <button type='default'>7. CLick事件</button>
+      </navigator>
+      <navigator url='../8.click-event2/index'>
+        <button type='default'>8. 冒泡事件</button>
+      </navigator>
     </view>
   </view>
 </view>

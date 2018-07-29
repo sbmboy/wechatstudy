@@ -1,0 +1,6 @@
+<!--pages/7.click-event/index.wxml-->
+<view>
+  <view class="btn" bindtap='clickMe'>
+    点击我！
+  </view>
+</view>

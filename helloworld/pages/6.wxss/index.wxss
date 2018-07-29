@@ -1,0 +1,6 @@
+/* pages/6.wxss/index.wxss */
+@import './assets.wxss';
+.container{
+  color:red;
+  font-size: 35rpx;  
+}

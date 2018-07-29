@@ -1,0 +1,10 @@
+<!--pages/8.click-event2/index.wxml-->
+<view class="container-a" bindtap='clickA'>
+  Container A
+  <view class="container-b" bindtap='clickB'>
+    Container B
+    <view class="container-c" bindtap='clickC'>
+      Container C
+    </view>
+  </view>
+</view>

@@ -1,0 +1,10 @@
+<!--pages/6.wxss/index.wxml-->
+<view class="container">
+  测试样式表：35像素，红色
+</view>
+<!--@import-->
+<view class="box">
+  蓝色边框，1px，蓝色字体
+</view>
+<!--mustache-->
+<view style="color:{{color}}">data数据，黄色</view>

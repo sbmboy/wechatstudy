@@ -7,6 +7,9 @@
     "pages/2.mustache/index",
     "pages/3.items/index",
     "pages/4.condition/index",
-    "pages/5.template/index"
+    "pages/5.template/index",
+    "pages/6.wxss/index",
+    "pages/7.click-event/index",
+    "pages/8.click-event2/index"
   ]
 }
